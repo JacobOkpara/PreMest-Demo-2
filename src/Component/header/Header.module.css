@@ -1,0 +1,17 @@
+header {
+  background-color: peachpuff;
+  height: 10%;
+  width: 100%;
+  color: blue;
+}
+
+p {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(122, 42, 42);
+}
